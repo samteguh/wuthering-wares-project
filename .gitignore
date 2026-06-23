@@ -1,0 +1,4 @@
+wuthering_wares_backend/.env
+node_modules/
+.dart_tool/
+build/
